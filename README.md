@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🍒 I’m currently working on my final project for CS50P
 --!>
 
-![JC3](https://github.com/JohnCheriton/JohnCheriton/assets/158047425/02cfde14-bb77-43c5-8c39-814f896d37a8)
+![JC3 is a self image from my desktop](https://github.com/JohnCheriton/JohnCheriton/assets/158047425/02cfde14-bb77-43c5-8c39-814f896d37a8)
 
 
