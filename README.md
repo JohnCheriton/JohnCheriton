@@ -1,9 +1,9 @@
-#      🍒     Hi, I'm Cherry 
-
-## I’m currently working on my final project for CS50P
-
-### My project name is ????
-
+#     Golf Event Selector
+### Video Demo:<URL>
+### 
+My GitHub and edx usernames are JohnCheriton
+My city is Port Lincoln, South Australia, 5606, Australia
+My video was recorded __/__/2024
 <!--
 **JohnCheriton/JohnCheriton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
